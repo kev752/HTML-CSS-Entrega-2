@@ -27,6 +27,7 @@
   display: flex;
   list-style-type: none;
   flex-direction: center;
+  gap: 5px;
 }
 
 .links ul li a {
