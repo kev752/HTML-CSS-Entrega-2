@@ -8,7 +8,7 @@
 }
 
 .container {
-  background-color: #6c567b;
+  background-color: #2a445e;
   padding: 30px;
   width: vw;
   height: 70px;
@@ -38,7 +38,12 @@
 
 .links ul li a:hover {
   transform: scale(1.2);
-  color: #f67280;
+  color: white;
+}
+
+.buscador {
+  margin-right: auto;
+  margin-left: 40px;
 }
 
 .buscador input {
