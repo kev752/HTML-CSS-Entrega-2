@@ -40,3 +40,21 @@
   transform: scale(1.2);
   color: #f67280;
 }
+
+.buscador input {
+  border-radius: 15px;
+  padding: 3px;
+}
+
+.buscador button img {
+  width: 10px;
+  height: auto;
+}
+
+.buscador button {
+  width: 30px;
+  height: auto;
+  background-color: lightblue;
+  padding: 4px;
+  border-radius: 15px;
+}
